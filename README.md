@@ -4,6 +4,7 @@
 **cardosolucas1/cardosolucas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![alt text](https://github.com/[cardosolucas1]/[cardosolucas1/blob/[mastwe]/images/banner.png?raw=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
