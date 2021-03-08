@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 #### E aí, galera? 👋😄
 
 Atualmente desenvolvo projetos em React utilizando as principais tecnologias desta biblioteca. Além disso, estudo desenvolvimento de software, onde lido com a resolução de desafios que envolvem Front-end e Back-end. Algumas das tecnologias que estou familiarizado:
+- ⚡ Jest e React Testing Library
 - ⚡ NodeJs
-- ⚡ MongoDb
-- ⚡ MySQL
+- ⚡ MongoDb /Mongoose
+- ⚡ MySQL /Sequelize
 - ⚡ ReactJs
 - ⚡ Javascript
 - ⚡ Express
